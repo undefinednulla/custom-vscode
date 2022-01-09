@@ -1,0 +1,77 @@
+.menubar-menu-title,
+a,
+a.label-name,
+h3.title {
+    font-family: "Jetbrains Mono";
+}
+.span {
+    font-family: "Jetbrains Mono";
+}
+.mtk25 {
+    color: #ff5da2;
+}
+.mtk26 {
+    font-family: "Operator Mono";
+    font-style: italic;
+    letter-spacing: 1px;
+    color: transparent;
+    background-image: linear-gradient(to right top, #20e3b2, #00b98b);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mtk15 {
+    font-family: "Jetbrains Mono";
+    color: #ff5151;
+}
+.mtk16 {
+    color: transparent;
+    background-image: linear-gradient(to right top, #9a86fd, #6a5af9);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mtk17 {
+    color: transparent;
+    background-image: linear-gradient(to right top, #70c3ff, #0396ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mtk5 {
+    font-family: "Jetbrains Mono";
+    font-weight: 500;
+    letter-spacing: 0;
+    font-style: italic;
+}
+.mtk14 {
+    font-family: "Jetbrains Mono";
+    color: #d6ab27;
+}
+.mtk10 {
+    color: transparent;
+    background-image: linear-gradient(to right top, #fec163, #de4313);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mtk13,
+.mtk28 {
+    color: #6272a4;
+}
+.mtk27 {
+    color: #d6ab27;
+    font-style: italic;
+    font-family: "Jetbrains Mono";
+    letter-spacing: 1px;
+}
+.mtk28,
+.mtk4 {
+    font-style: italic;
+}
+.mtk18 {
+    font-family: "Jetbrains Mono";
+    font-weight: 700;
+    letter-spacing: 0;
+    color: #406882;
+}
